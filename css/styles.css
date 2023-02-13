@@ -1,0 +1,174 @@
+#title, #cta{
+  background-color: #ff4c68;
+
+
+
+}
+
+
+body {
+  font-family: "Lilita One", cursive;
+
+}
+
+h1 {
+  font-family: "Lilita One", cursive;
+  color: azure;
+}
+
+.container {
+  padding: 3% 15% 7%;
+  width: 10rem;
+
+
+}
+
+#nav-brand {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+#navbar {
+  padding-bottom: 4.5rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: larger;
+  font-family: "Lilita One", cursive;
+}
+
+.download-button {
+  margin: 5% 3% 5% 0;
+  padding-right: 15px;
+}
+
+.dogs {
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+
+/* feacture section */
+#feactures {
+padding: 7% 15%;
+
+background-color: #fff;
+position: relative;
+
+}
+
+.feact {
+  text-align: center;
+  padding-left: 4rem;
+  color: #8f8f8f;
+  max-width: 90%;
+}
+.feacture-box {
+  text-align: center;
+  padding: 4.5%;
+}
+i {
+  font-size: 50px;
+}
+
+.icon {
+  color: #ff4c68;
+  margin-bottom: 2rem;
+}
+.icon:hover {
+  color: #0a080c;
+}
+
+#testimonials {
+  text-align: center;
+  background-color: #d03d53;
+  color: #fff;
+  position: relative;
+
+}
+.carousel-item{
+  padding: 10% 30%;
+
+}
+
+/* image style */
+.testimonial-image {
+
+  margin: 30px;
+}
+
+.Ak-image, .testimonial-image {
+  width: 30%;
+  border-radius: 50%;
+
+}
+
+#press {
+  background-color: #d03d53;
+  text-align: center;
+
+  padding-bottom: 3%;
+}
+.press-logo {
+  width: 15%;
+  margin: 20px, 20px, 50px;
+}
+
+/* pricing section */
+#pricing{
+padding: 100px;
+text-align: center;
+
+
+}
+
+.pricing-column{
+  padding: 3% 2%;
+}
+
+@media (max-width:1200px) {
+
+
+    .title-image{
+      position: static;
+      height: 40rem;
+      transform: rotate(-25deg);
+    }
+
+}
+
+/* CTA section */
+
+#cta{
+  padding: 6% 15%;
+
+  text-align: center;
+  color: #fff;
+
+
+}
+.cta-heading{
+  font-family: 'Montserrat-Black';
+  font-size: 3.5rem;
+line-height: 1.5;
+}
+
+/* Footer Section */
+
+#footer{
+  text-align: center;
+  padding: 7% 15%;
+
+}
+.footicon{
+  padding: 50px;
+  background-color: #fff;
+}
+.socialicon{
+margin: 10px;
+}
+
